@@ -6,7 +6,7 @@
     toDoList[i].editing = isEditing;
   }
   function deleteTodo(i) {
-    toDoList.splice(i, 1);
+    toDoList.splice(i, 0);
     toDoList = [...toDoList];
   }
 
