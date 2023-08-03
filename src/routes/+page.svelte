@@ -21,6 +21,7 @@
   let textInput = "";
 </script>
 
+<!-- Styling -->
 <svelte:head>
   <link
     rel="stylesheet"
