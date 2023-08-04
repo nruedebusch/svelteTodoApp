@@ -2,6 +2,7 @@
   import { fade, fly } from "svelte/transition";
   let toDoList = [];
 
+<!-- Functions -->
   function setEditing(i, isEditing) {
     toDoList[i].editing = isEditing;
   }
