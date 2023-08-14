@@ -29,6 +29,8 @@
   />
 </svelte:head>
 
+<!--Main -->
+
 <div style="margin: 0 auto; padding: 20px; width: 700px">
   <h2 style="text-align: center;">Todo List</h2>
   <p>Enter a task</p>
