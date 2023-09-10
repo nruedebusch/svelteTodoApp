@@ -23,7 +23,7 @@
   let textInput = "";
 </script>
 
-<!-- Styling -->
+<!-- Style -->
 <svelte:head>
   <link
     rel="stylesheet"
